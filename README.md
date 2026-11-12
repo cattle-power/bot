@@ -5,3 +5,4 @@
 | slug | 说明 |
 | --- | --- |
 | image-retouch-pipeline | Use when the user wants several bots to work together to retouch one image, as a pipeline (each stage builds on the previous output), not parallel duplicate edits. |
+| bot-handoff | bot 之间派活/接活的标准交接模板与 CEO 原则 |
